@@ -1,0 +1,10 @@
+# Trained model weights (too large for git)
+emotion_transformer.pt
+
+# Virtual environment
+myenv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo

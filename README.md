@@ -1,4 +1,4 @@
-# Mood Analysis — Real-time Emotion Detection with Vision Transformer
+# Real-time Emotion Detection with Vision Transformer
 
 I built this because I was curious about one thing: *can a model actually tell what I'm feeling just by looking at my face through a webcam?* Turns out — yeah, it kind of can. And it's surprisingly fun to watch it work in real time.
 
